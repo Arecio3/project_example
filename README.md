@@ -4,4 +4,5 @@ delete me im an example
 - git add -A
 - git commit -m "explain"
 - git push origin
-## git pull origin
+## to update
+-git pull origin
